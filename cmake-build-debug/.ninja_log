@@ -1,0 +1,9 @@
+# ninja log v5
+0	338	1669898397636682774	build.ninja	b013eb7ce5cd7f4e
+440	1049	1669553463327831030	CMakeFiles/videoPlayer.dir/the_player.cpp.o	d646cdb29e831c7c
+439	1067	1669553463346607613	CMakeFiles/videoPlayer.dir/videoPlayer_autogen/mocs_compilation.cpp.o	6ad3068cd7146e2d
+13	439	1669553462715852000	videoPlayer_autogen/timestamp	581f9ed5e6e80687
+13	439	1669553462715852000	videoPlayer_autogen/mocs_compilation.cpp	581f9ed5e6e80687
+440	1224	1669553463502873667	CMakeFiles/videoPlayer.dir/tomeo.cpp.o	1a64a16571b94da0
+440	984	1669553463262179969	CMakeFiles/videoPlayer.dir/the_button.cpp.o	48d39db08ebc4ba9
+1225	1277	1669553463558527006	videoPlayer	318e9a8a8e10ca9d
