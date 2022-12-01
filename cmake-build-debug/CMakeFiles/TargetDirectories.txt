@@ -1,5 +1,0 @@
-/Users/yuheng/Desktop/ui_cw3/Tomeo/cmake-build-debug/CMakeFiles/videoPlayer.dir
-/Users/yuheng/Desktop/ui_cw3/Tomeo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yuheng/Desktop/ui_cw3/Tomeo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/yuheng/Desktop/ui_cw3/Tomeo/cmake-build-debug/CMakeFiles/videoPlayer_autogen_timestamp_deps.dir
-/Users/yuheng/Desktop/ui_cw3/Tomeo/cmake-build-debug/CMakeFiles/videoPlayer_autogen.dir
