@@ -171,6 +171,7 @@ MainWindow::MainWindow(QWidget *parent) :
                 delete child;
             }
             this->initPic->show();
+            ui->progressText->setText("00:00 / 00:00");
             for(int i = 0; i < outVideoList.size(); i++) {
                 ui->scrollAreaWidgetContents->layout()->addWidget(outVideoList[i]);
                 // set the position of the video button dynamically
